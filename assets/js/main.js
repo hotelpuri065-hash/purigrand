@@ -107,7 +107,7 @@
       if (message) lines.push('Message: ' + message);
 
       var text = encodeURIComponent(lines.join('\n'));
-      window.open('https://wa.me/918209516266?text=' + text, '_blank', 'noopener');
+      window.open('https://wa.me/917026352683?text=' + text, '_blank', 'noopener');
     });
   }
 
